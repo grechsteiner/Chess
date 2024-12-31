@@ -1,6 +1,12 @@
-# Chess
-- Full GUI Chess Game
+# PyChess
+
+
+
+- Full GUI Chess Game implemented with Python (3.9.1) and Pygame (2.0.1)
+- Showcased at Toronto District School Board's "Tech It Out 22" showcase
 - Custom AI opponent with several difficulty options
-- Implements alpha-beta pruning and other algorithm optimizations to minimize AI best move search time
-- First iteration was written as the final project for my Grade 12 (2022) computer science course, but I continued to refine the existing features and add more functionality as a side project
-- Written using python version 3.9.1 and pygame version 2.0.1
+  - Implements alpha-beta pruning and other algorithm optimizations to minimize AI best move search time
+- Hints for human players
+- Available move visualization for selected piece
+- Sound effects
+- 
